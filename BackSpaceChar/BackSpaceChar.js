@@ -37,8 +37,8 @@ const expected4 = false;
  *    have been processed.
  */
 // For loop throgh the string 
-// Then compare if there equal characters and letter 
-// # means a space
+// Need to empty arrays
+// Then compare if there equal characters 
 function backspaceStringCompare(S, T) {
     let arryOne = [];
     let arryTwo = [];
